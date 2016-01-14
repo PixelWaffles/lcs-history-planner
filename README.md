@@ -1,2 +1,2 @@
-# lcs-stat-planner
-Liberal Crime Squad stat planner.
+# lcs-history-planner
+Liberal Crime Squad history planner.
